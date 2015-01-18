@@ -6,8 +6,8 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	printf("hello world/n");
-	printf("just a test/n");
+	printf("hello world\n");
+	printf("just a test\n");
 	getchar();
 	return 0;
 }
